@@ -6,7 +6,7 @@
 
 Заметки:
 1. Модуль админ панели https://simov.github.io/express-admin/
-2. Использованные ститьи <br>
+2. Использованные статьи <br>
 https://www.bezkoder.com/node-js-express-sequelize-mysql/ <br>
 https://www.bezkoder.com/node-js-jwt-authentication-mysql/ <br>
 Не использованная https://www.bezkoder.com/react-redux-mysql-crud/ <br>
