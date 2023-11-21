@@ -34,6 +34,6 @@ Database: MySQL
   
 # The command to launch the application   
 in the backend and frontend directories:  
-`npm start`  
+```npm start``` 
    
 You can see more detailed information about launching the application in the corresponding repositories - frontend and backend.  
