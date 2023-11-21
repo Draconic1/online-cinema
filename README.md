@@ -1,4 +1,4 @@
-# Web application for booking cinema tickets  
+# A web application for booking cinema tickets  
 
 Here you can see some screenshots of the application:  
 
@@ -6,7 +6,7 @@ Here you can see some screenshots of the application:
   
 <img src="https://github.com/Draconic1/online-cinema/blob/main/img/about.png" alt="Film about screenshot" height="80%" width="80%"> 
   
-<details><summary>Скриншоты других страниц:</summary>
+<details><summary>Screenshots of some other pages:</summary>
 When you open the website you can see a navigation panel, a list of movies, and a panel for searching a movie by title.   
 An unauthorized user can view the movie list, register or login. An authorized user can book tickets.  
 
