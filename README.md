@@ -31,8 +31,8 @@ Frontend: React, Redux Toolkit, axios
 Backend: Node.js + Express  
 Database: MySQL  
 
-# The command to launch the application      
-`cd frontend  
-   npm start`  
+# The command to launch the application   
+in the backend and frontend directories:  
+`npm start`  
    
 You can see more detailed information about launching the application in the corresponding repositories - frontend and backend.  
